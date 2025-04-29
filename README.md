@@ -69,3 +69,65 @@ Computer: HP 256 G9 - Intel Core i3.
 **© 2025 - by Robson Silva - Programador Python e Analista de Dados.**
 
 ---
+
+Vendas Online - Dados de Mercado Popular
+🛒Análise de dados de vendas on-line - Popular Market Data
+Projeto
+
+Transações globais em várias categorias de produtos
+
+Sobre o conjunto de dados
+
+Este conjunto de dados fornece uma visão geral abrangente das transações de vendas online em diferentes categorias de produtos. Cada linha representa uma única transação com informações detalhadas, como ID do pedido, data, categoria, nome do produto, quantidade vendida, preço unitário, preço total, região e método de pagamento.
+
+Colunas:
+
+ID do pedido: Identificador exclusivo para cada pedido de venda.
+
+Data: Data da transação de venda.
+
+Categoria: Ampla categoria do produto vendido (por exemplo, eletrônicos, eletrodomésticos, roupas, livros, produtos de beleza, esportes).
+
+Nome do produto: Nome ou modelo específico do produto vendido.
+
+Quantidade: Número de unidades do produto vendido na transação.
+
+Preço unitário: Preço de uma unidade do produto.
+
+Preço total: Receita total gerada pela transação de venda (Quantidade * Preço Unitário).
+
+Região: Região geográfica onde a transação ocorreu (por exemplo, América do Norte, Europa, Ásia).
+
+Forma de pagamento: Método usado para pagamento (por exemplo, cartão de crédito, PayPal, cartão de débito).
+
+Insights:
+
+Analise as tendências de vendas ao longo do tempo para identificar padrões sazonais ou oportunidades de crescimento.
+
+Explore a popularidade de diferentes categorias de produtos em todas as regiões.
+
+Investigue o impacto dos métodos de pagamento no volume de vendas ou na receita.
+
+Identifique os produtos mais vendidos em cada categoria para otimizar o estoque e as estratégias de marketing.
+
+Avalie o desempenho de produtos ou categorias específicas em diferentes regiões para adaptar as campanhas de marketing de acordo.
+
+Houve algum desconto nas compras?
+
+Fonte de dados
+Este conjunto de dados foi disponibilizado por ShreyanshVerma27 no Kaggle e está licenciado sob CC0: Domínio público:
+
+hreyanshVerma27, Conjunto de dados de vendas on-line - Dados populares do mercado. Disponível em: Kaggle Dataset Link
+
+O objetivo deste projeto é treinar e colocar minhas habilidades em prática. Também vou incluí-lo em meu portfólio para que eu possa mostrar minhas habilidades e conquistar futuros projetos e clientes na área de Análise de Dados e Ciência com Python.
+
+Software e equipamentos usados para desenvolvimento: Python 3.12.9
+
+Bibliotecas (Pandas, Numpy, Matplotlib, Seaborn)
+
+Sistema operacional: Windows 11 Home Single Language.
+
+Computador: HP 256 G9 - Intel Core i3.
+📈 Análise de Dados
+
+© 2025 - por Robson Silva - Programador Python e Analista de Dados.
